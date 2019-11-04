@@ -26,3 +26,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
         <text x="80" y="14">31%</text>
     </g>
 </svg>
+
+
+<img src="https://img.shields.io/badge/coverage-31-brightgreen" alt="">
