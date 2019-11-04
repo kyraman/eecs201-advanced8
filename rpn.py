@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
 
 import operator
+import readline # for part 3 of advanced homework 8
 
+import colorama # for part 3 of advanced homework 8
+from colorama import Fore, Style # for part 3 of advanced homework 8
 
 operators = {
     '+': operator.add,
@@ -29,8 +32,13 @@ def calculate(myarg):
 
 def main():
     while True:
-        result = calculate(input("rpn calc> "))
-        print("Result: ", result)
+        result = calculate(input(Fore.GREEN + "rpn calc> "))
+        # make negative numbers red
+        if result < 0:
+            print("Result:  ", end="")
+            print(Fore.RED + str(result))
+        else:
+            print("Result: ", result)
 
 if __name__ == '__main__':
     main()
