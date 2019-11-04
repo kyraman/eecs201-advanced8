@@ -1,3 +1,15 @@
-# eecs201-advanced8
+.. image:: https://badge.fury.io/py/tinyfasta.svg
+   :target: http://badge.fury.io/py/tinyfasta
+   :alt: PyPI package
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+.. image:: https://travis-ci.org/tjelvar-olsson/tinyfasta.svg?branch=master
+   :target: https://travis-ci.org/tjelvar-olsson/tinyfasta
+   :alt: Travis CI build status (Linux)
+
+.. image:: https://codecov.io/github/tjelvar-olsson/tinyfasta/coverage.svg?branch=master
+   :target: https://codecov.io/github/tjelvar-olsson/tinyfasta?branch=master
+   :alt: Code Coverage
+
+.. image:: https://readthedocs.org/projects/tinyfasta/badge/?version=latest
+   :target: https://readthedocs.org/projects/tinyfasta/?badge=latest
+   :alt: Documentation Status
